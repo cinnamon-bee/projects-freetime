@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(253, 202, 210);
+}
+
+.meals {
+    display: flex;
+    flex-direction:column;
+    height: 100px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(197, 130, 194)
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
