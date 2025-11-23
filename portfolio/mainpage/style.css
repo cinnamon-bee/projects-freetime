@@ -1,6 +1,8 @@
 body {
     text-align: center;
     background-color: rgb(253, 202, 210);
+    border: solid 2px white;
+    margin: 100px;
 }
 
 .meals {
@@ -13,6 +15,7 @@ div {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 30px;
 }
 
 h1 {
