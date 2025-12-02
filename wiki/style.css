@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: lightpink;
+}
+
+a {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
